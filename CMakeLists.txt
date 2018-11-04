@@ -1,0 +1,15 @@
+project(BUDDYBRITE)
+cmake_minimum_required(VERSION 3.2)
+SET(CMAKE_CXX_COMPILER clang++)
+set (CMAKE_CXX_STANDARD 11)
+set( CMAKE_EXPORT_COMPILE_COMMANDS ON)
+include_directories(src)
+set (LIBSRC src/BuddyGpuMalloc.cpp src/CacheMalloc.cpp)
+set (TESTSRC src/test.cpp)
+add_library(buddymalloc ${LIBSRC})
+
+enable_testing()
+
+add_executable(test1 ${TESTSRC})
+target_link_libraries(test1 buddymalloc)
+add_test(NAME test1 COMMAND test1)

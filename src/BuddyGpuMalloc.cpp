@@ -2,7 +2,7 @@
 // Created by jaken on 18-10-28.
 //
 
-#include "BuddyGpuMalloc.h"
+#include "BuddyGpuMalloc.hpp"
 #include <stdlib.h>
 #include <assert.h>
 #include <stdio.h>

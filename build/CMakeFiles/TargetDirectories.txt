@@ -1,0 +1,5 @@
+/home/jaken/workspace/Buddybrite/build/CMakeFiles/rebuild_cache.dir
+/home/jaken/workspace/Buddybrite/build/CMakeFiles/test.dir
+/home/jaken/workspace/Buddybrite/build/CMakeFiles/edit_cache.dir
+/home/jaken/workspace/Buddybrite/build/CMakeFiles/buddymalloc.dir
+/home/jaken/workspace/Buddybrite/build/CMakeFiles/test1.dir

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libbuddymalloc.a  CMakeFiles/buddymalloc.dir/src/BuddyGpuMalloc.cpp.o CMakeFiles/buddymalloc.dir/src/CacheMalloc.cpp.o
+/usr/bin/ranlib libbuddymalloc.a

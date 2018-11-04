@@ -1,4 +1,4 @@
-#include "BuddyGpuMalloc.h"
+#include "BuddyGpuMalloc.hpp"
 #include <random>
 #include <thread>
 #include <assert.h>

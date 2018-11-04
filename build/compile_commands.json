@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/jaken/workspace/Buddybrite/build",
+  "command": "clang++   -I/home/jaken/workspace/Buddybrite/src    -std=gnu++11 -o CMakeFiles/buddymalloc.dir/src/BuddyGpuMalloc.cpp.o -c /home/jaken/workspace/Buddybrite/src/BuddyGpuMalloc.cpp",
+  "file": "/home/jaken/workspace/Buddybrite/src/BuddyGpuMalloc.cpp"
+},
+{
+  "directory": "/home/jaken/workspace/Buddybrite/build",
+  "command": "clang++   -I/home/jaken/workspace/Buddybrite/src    -std=gnu++11 -o CMakeFiles/buddymalloc.dir/src/CacheMalloc.cpp.o -c /home/jaken/workspace/Buddybrite/src/CacheMalloc.cpp",
+  "file": "/home/jaken/workspace/Buddybrite/src/CacheMalloc.cpp"
+},
+{
+  "directory": "/home/jaken/workspace/Buddybrite/build",
+  "command": "clang++   -I/home/jaken/workspace/Buddybrite/src    -std=gnu++11 -o CMakeFiles/test1.dir/src/test.cpp.o -c /home/jaken/workspace/Buddybrite/src/test.cpp",
+  "file": "/home/jaken/workspace/Buddybrite/src/test.cpp"
+}
+]
